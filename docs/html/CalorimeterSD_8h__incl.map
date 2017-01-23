@@ -1,9 +1,0 @@
-<map id="SimApplication/include/SimApplication/CalorimeterSD.h" name="SimApplication/include/SimApplication/CalorimeterSD.h">
-<area shape="rect" id="node3" href="$Event_8h.html" title="Class defining an abstract interface for accessing event information and data collections. " alt="" coords="313,187,417,213"/>
-<area shape="rect" id="node11" href="$G4CalorimeterHit_8h.html" title="Class defining a calorimeter hit which is used to create output SimCalorimeterHit objects..." alt="" coords="875,97,1072,138"/>
-<area shape="rect" id="node21" href="$DetectorID_8h.html" title="Class that defines a 32&#45;bit packed ID for uniquely identifying hits and detector components. " alt="" coords="485,104,643,131"/>
-<area shape="rect" id="node6" href="$EventHeader_8h.html" title="Class that provides header information about an event such as event number and timestamp. " alt="" coords="43,261,189,288"/>
-<area shape="rect" id="node16" href="$SimCalorimeterHit_8h.html" title="Class which stores simulated calorimeter hit information. " alt="" coords="807,187,985,213"/>
-<area shape="rect" id="node18" href="$SimParticle_8h.html" title="Class which implements an MC particle that stores information about tracks from the simulation..." alt="" coords="705,261,844,288"/>
-<area shape="rect" id="node22" href="$IDField_8h.html" title="Class that defines a single field in a bit&#45;packed detector ID. " alt="" coords="443,187,577,213"/>
-</map>

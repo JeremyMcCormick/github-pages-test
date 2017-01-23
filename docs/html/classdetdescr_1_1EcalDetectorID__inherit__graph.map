@@ -1,4 +1,0 @@
-<map id="detdescr::EcalDetectorID" name="detdescr::EcalDetectorID">
-<area shape="rect" id="node2" href="$classdetdescr_1_1DefaultDetectorID.html" title="Defines a default detector ID with encoded layer and subdetector values. " alt="" coords="5,80,192,107"/>
-<area shape="rect" id="node3" href="$classdetdescr_1_1DetectorID.html" title="Defines a 32&#45;bit packed ID for uniquely identifying hits and detector components. ..." alt="" coords="27,5,171,32"/>
-</map>

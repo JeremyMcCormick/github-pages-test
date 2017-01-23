@@ -1,4 +1,0 @@
-<map id="EcalVetoProcessor::produce" name="EcalVetoProcessor::produce">
-<area shape="rect" id="node2" href="$classevent_1_1CalorimeterHit.html#a80828a5284a225d6ba14d7bd25237369" title="event::CalorimeterHit\l::getEnergy" alt="" coords="197,5,344,46"/>
-<area shape="rect" id="node3" href="$classevent_1_1CalorimeterHit.html#a9c7d768f1b95c3c42eaad855c499be18" title="event::CalorimeterHit\l::getTime" alt="" coords="197,70,344,111"/>
-</map>

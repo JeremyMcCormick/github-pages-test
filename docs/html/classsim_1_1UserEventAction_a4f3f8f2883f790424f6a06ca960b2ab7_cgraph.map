@@ -1,5 +1,0 @@
-<map id="sim::UserEventAction::BeginOfEventAction" name="sim::UserEventAction::BeginOfEventAction">
-<area shape="rect" id="node2" href="$classsim_1_1PluginManager.html#ac3d1bc9341089dedda28d193fb3e81e3" title="sim::PluginManager\l::beginEvent" alt="" coords="230,5,367,46"/>
-<area shape="rect" id="node3" href="$classsim_1_1TrackMap.html#a66c5d3d785a9e7a8ed26d2f8d72f36bb" title="sim::TrackMap::clear" alt="" coords="226,71,371,97"/>
-<area shape="rect" id="node4" href="$classsim_1_1TrackMap.html#a77aaeaeb8164d1c847db4ad85a272544" title="sim::TrackMap::getInstance" alt="" coords="206,121,391,148"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="Event/include/Event/HcalHit.h" name="Event/include/Event/HcalHit.h">
-<area shape="rect" id="node2" href="$EventDef_8h.html" title="Headers to be processed when creating the ROOT dictionary. " alt="" coords="5,97,144,138"/>
-<area shape="rect" id="node3" href="$HcalHit_8cxx_source.html" title="Event/src/HcalHit.cxx" alt="" coords="169,104,319,131"/>
-<area shape="rect" id="node4" href="$HcalDigiProducer_8cxx_source.html" title="EventProc/src/HcalDigiProducer.cxx" alt="" coords="343,104,579,131"/>
-</map>

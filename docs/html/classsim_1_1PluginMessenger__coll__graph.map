@@ -1,4 +1,0 @@
-<map id="sim::PluginMessenger" name="sim::PluginMessenger">
-<area shape="rect" id="node3" href="$classsim_1_1PluginManager.html" title="Manages user sim plugins. " alt="" coords="147,96,284,123"/>
-<area shape="rect" id="node4" href="$classsim_1_1PluginLoader.html" title="Loads user sim plugin classes from external shared libraries. " alt="" coords="153,5,279,32"/>
-</map>

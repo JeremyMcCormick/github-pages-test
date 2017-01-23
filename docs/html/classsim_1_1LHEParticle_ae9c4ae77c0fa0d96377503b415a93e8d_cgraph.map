@@ -1,9 +1,0 @@
-<map id="sim::LHEParticle::print" name="sim::LHEParticle::print">
-<area shape="rect" id="node2" href="$classsim_1_1LHEParticle.html#a3f24047367160d5f6e7500525945eb85" title="sim::LHEParticle::getICOLUP" alt="" coords="212,5,409,32"/>
-<area shape="rect" id="node3" href="$classsim_1_1LHEParticle.html#ad674bda538ebd0760bee587372f3e407" title="sim::LHEParticle::getIDUP" alt="" coords="221,56,401,83"/>
-<area shape="rect" id="node4" href="$classsim_1_1LHEParticle.html#a465ee35b14b9bc8681b89284b96cb54d" title="sim::LHEParticle::getISTUP" alt="" coords="217,107,404,133"/>
-<area shape="rect" id="node5" href="$classsim_1_1LHEParticle.html#af1c0c5535837ecc45d2da78e667af120" title="sim::LHEParticle::getMOTHUP" alt="" coords="208,157,413,184"/>
-<area shape="rect" id="node6" href="$classsim_1_1LHEParticle.html#aab11658862b6bd220f09e6076d00bde2" title="sim::LHEParticle::getPUP" alt="" coords="223,208,398,235"/>
-<area shape="rect" id="node7" href="$classsim_1_1LHEParticle.html#a4843ec4e02460460865574adea025a89" title="sim::LHEParticle::getSPINUP" alt="" coords="211,259,410,285"/>
-<area shape="rect" id="node8" href="$classsim_1_1LHEParticle.html#a136ed4458adc39ac5ba65c1a97906c81" title="sim::LHEParticle::getVTIMUP" alt="" coords="211,309,410,336"/>
-</map>

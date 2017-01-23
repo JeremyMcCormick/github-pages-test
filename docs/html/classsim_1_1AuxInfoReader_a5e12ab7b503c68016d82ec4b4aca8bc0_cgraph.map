@@ -1,6 +1,0 @@
-<map id="sim::AuxInfoReader::assignAuxInfoToVolumes" name="sim::AuxInfoReader::assignAuxInfoToVolumes">
-<area shape="rect" id="node2" href="$classsim_1_1MagneticFieldStore.html#acc9d293bc2ad23c5c6add3cf9fe66175" title="sim::MagneticFieldStore\l::getInstance" alt="" coords="232,5,395,46"/>
-<area shape="rect" id="node3" href="$classsim_1_1VisAttributesStore.html#a6d38377667ffb75cd64cab70a625f9ed" title="sim::VisAttributesStore\l::getInstance" alt="" coords="235,70,392,111"/>
-<area shape="rect" id="node4" href="$classsim_1_1MagneticFieldStore.html#afabaae369c054121684dea8bf941849d" title="sim::MagneticFieldStore\l::getMagneticField" alt="" coords="232,135,395,177"/>
-<area shape="rect" id="node5" href="$classsim_1_1VisAttributesStore.html#a4036db9e8720ae4be8c779fc31b480ce" title="sim::VisAttributesStore\l::getVisAttributes" alt="" coords="235,201,392,242"/>
-</map>

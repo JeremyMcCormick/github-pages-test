@@ -1,8 +1,0 @@
-<map id="sim::PluginMessenger::SetNewValue" name="sim::PluginMessenger::SetNewValue">
-<area shape="rect" id="node2" href="$classsim_1_1PluginManager.html#a4d29797b1c4bf0877c220bfc20e012a4" title="sim::PluginManager\l::create" alt="" coords="206,70,343,111"/>
-<area shape="rect" id="node6" href="$classsim_1_1PluginManager.html#ab963879b3642681b9956a5b29bc1e370" title="sim::PluginManager\l::destroy" alt="" coords="206,135,343,177"/>
-<area shape="rect" id="node7" href="$classsim_1_1PluginManager.html#aaf6bcfd006f9f6a690bfa78ac4d22edb" title="sim::PluginManager\l::print" alt="" coords="206,201,343,242"/>
-<area shape="rect" id="node3" href="$classsim_1_1PluginLoader.html#af718ad39dba9e60cf87d2b47bad3e0f0" title="sim::PluginLoader::\lcreate" alt="" coords="394,5,529,46"/>
-<area shape="rect" id="node4" href="$classsim_1_1PluginManager.html#a2a68d5f29459114438a50264e17a86f5" title="sim::PluginManager\l::findPlugin" alt="" coords="393,135,530,177"/>
-<area shape="rect" id="node5" href="$classsim_1_1PluginManager.html#aee72e6452a4dff9b7215918c5ea96ed1" title="sim::PluginManager\l::registerPlugin" alt="" coords="393,70,530,111"/>
-</map>

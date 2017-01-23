@@ -1,6 +1,0 @@
-<map id="SimApplication/include/SimApplication/PrimaryGeneratorAction.h" name="SimApplication/include/SimApplication/PrimaryGeneratorAction.h">
-<area shape="rect" id="node2" href="$PrimaryGeneratorMessenger_8h.html" title="Class providing a macro messenger for event generation. " alt="" coords="5,109,224,165"/>
-<area shape="rect" id="node5" href="$PrimaryGeneratorAction_8cxx_source.html" title="SimApplication/src\l/PrimaryGeneratorAction.cxx" alt="" coords="249,117,439,158"/>
-<area shape="rect" id="node4" href="$RunManager_8cxx_source.html" title="SimApplication/src\l/RunManager.cxx" alt="" coords="329,214,460,255"/>
-<area shape="rect" id="node3" href="$PrimaryGeneratorMessenger_8cxx_source.html" title="SimApplication/src\l/PrimaryGeneratorMessenger.cxx" alt="" coords="6,214,223,255"/>
-</map>

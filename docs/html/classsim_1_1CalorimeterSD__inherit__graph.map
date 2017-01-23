@@ -1,4 +1,0 @@
-<map id="sim::CalorimeterSD" name="sim::CalorimeterSD">
-<area shape="rect" id="node3" href="$classsim_1_1EcalSD.html" title="ECal sensitive detector that uses an EcalHexReadout to create the hits. " alt="" coords="5,155,101,181"/>
-<area shape="rect" id="node4" href="$classsim_1_1HcalSD.html" title="HCal sensitive detector. " alt="" coords="126,155,223,181"/>
-</map>

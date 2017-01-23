@@ -1,6 +1,0 @@
-<map id="sim::UserActionPlugin" name="sim::UserActionPlugin">
-<area shape="rect" id="node2" href="$classsim_1_1DummySimPlugin.html" title="Dummy implementation of UserActionPlugin. " alt="" coords="231,5,387,32"/>
-<area shape="rect" id="node3" href="$classsim_1_1EventPrintPlugin.html" title="Sim plugin for printing out messages at begin and end of event and run. " alt="" coords="235,56,383,83"/>
-<area shape="rect" id="node4" href="$classsim_1_1PhotonuclearXsecBiasingPlugin.html" title="User sim plugin to bias the Photonuclear cross&#45;section by a specified value. " alt="" coords="209,107,409,149"/>
-<area shape="rect" id="node5" href="$classsim_1_1TargetPhotonuclearBiasingPlugin.html" title="Biases Geant4 to only process events where PN reaction occurred in the target. " alt="" coords="206,173,413,214"/>
-</map>

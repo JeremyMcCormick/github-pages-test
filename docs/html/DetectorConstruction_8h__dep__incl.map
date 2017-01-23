@@ -1,7 +1,0 @@
-<map id="SimApplication/include/SimApplication/DetectorConstruction.h" name="SimApplication/include/SimApplication/DetectorConstruction.h">
-<area shape="rect" id="node2" href="$RunManager_8h.html" title="Class providing a Geant4 run manager implementation. " alt="" coords="192,97,395,138"/>
-<area shape="rect" id="node6" href="$DetectorConstruction_8cxx_source.html" title="SimApplication/src\l/DetectorConstruction.cxx" alt="" coords="470,97,644,138"/>
-<area shape="rect" id="node3" href="$RootPersistencyManager_8cxx_source.html" title="SimApplication/src\l/RootPersistencyManager.cxx" alt="" coords="5,187,203,229"/>
-<area shape="rect" id="node5" href="$SimApplication_8cxx_source.html" title="SimApplication/src\l/SimApplication.cxx" alt="" coords="383,187,521,229"/>
-<area shape="rect" id="node4" href="$RunManager_8cxx_source.html" title="SimApplication/src\l/RunManager.cxx" alt="" coords="228,187,359,229"/>
-</map>

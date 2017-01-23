@@ -1,6 +1,0 @@
-<map id="sim::UserTrackingAction::PreUserTrackingAction" name="sim::UserTrackingAction::PreUserTrackingAction">
-<area shape="rect" id="node2" href="$classsim_1_1TrackMap.html#abe815e108732a5c78e67401fc9f13ee3" title="sim::TrackMap::addSecondary" alt="" coords="221,5,421,32"/>
-<area shape="rect" id="node3" href="$classsim_1_1TrackMap.html#a77aaeaeb8164d1c847db4ad85a272544" title="sim::TrackMap::getInstance" alt="" coords="229,56,414,83"/>
-<area shape="rect" id="node4" href="$classsim_1_1PluginManager.html#ad4055b643ca93b635131f3716d83a3da" title="sim::PluginManager\l::preTracking" alt="" coords="253,107,390,149"/>
-<area shape="rect" id="node5" href="$classsim_1_1Trajectory.html#a0a0c9f895d16c1367fffceb208e1c40d" title="sim::Trajectory::setGenStatus" alt="" coords="223,173,420,200"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="SimApplication/include/SimApplication/PrimaryGeneratorAction.h" name="SimApplication/include/SimApplication/PrimaryGeneratorAction.h">
-<area shape="rect" id="node4" href="$PluginManagerAccessor_8h.html" title="Mixin class for accessing the plugin manager. " alt="" coords="456,110,635,151"/>
-<area shape="rect" id="node5" href="$PluginManager_8h.html" title="Class for managing the loading, activation and destruction of UserSimPlugin objects. " alt="" coords="451,200,640,227"/>
-<area shape="rect" id="node6" href="$PluginLoader_8h.html" title="Class which loads user simulation plugins from external shared libraries. " alt="" coords="255,275,433,301"/>
-<area shape="rect" id="node7" href="$UserActionPlugin_8h.html" title="Class defining an interface for a user simulation plugin. " alt="" coords="327,349,531,376"/>
-</map>

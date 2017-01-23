@@ -1,8 +1,0 @@
-<map id="SimApplication/include/SimApplication/LHEEvent.h" name="SimApplication/include/SimApplication/LHEEvent.h">
-<area shape="rect" id="node2" href="$LHEReader_8h.html" title="Class for reading LHE event data. " alt="" coords="215,97,411,138"/>
-<area shape="rect" id="node7" href="$LHEEvent_8cxx_source.html" title="SimApplication/src\l/LHEEvent.cxx" alt="" coords="436,97,567,138"/>
-<area shape="rect" id="node3" href="$LHEPrimaryGenerator_8h.html" title="Class for generating a Geant4 event from LHE event data. " alt="" coords="77,187,333,229"/>
-<area shape="rect" id="node6" href="$LHEReader_8cxx_source.html" title="SimApplication/src\l/LHEReader.cxx" alt="" coords="357,187,488,229"/>
-<area shape="rect" id="node4" href="$LHEPrimaryGenerator_8cxx_source.html" title="SimApplication/src\l/LHEPrimaryGenerator.cxx" alt="" coords="5,278,184,319"/>
-<area shape="rect" id="node5" href="$PrimaryGeneratorMessenger_8cxx_source.html" title="SimApplication/src\l/PrimaryGeneratorMessenger.cxx" alt="" coords="209,278,425,319"/>
-</map>

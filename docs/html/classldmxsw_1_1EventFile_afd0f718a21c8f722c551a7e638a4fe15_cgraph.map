@@ -1,8 +1,0 @@
-<map id="ldmxsw::EventFile::nextEvent" name="ldmxsw::EventFile::nextEvent">
-<area shape="rect" id="node2" href="$classldmxsw_1_1EventImpl.html#a424640e43fbfd32e4255328be36612b1" title="ldmxsw::EventImpl::\lbeforeFill" alt="" coords="193,5,335,46"/>
-<area shape="rect" id="node3" href="$classldmxsw_1_1EventImpl.html#ae11869d80b61711f93dcd6a464d77af6" title="ldmxsw::EventImpl::\lClear" alt="" coords="193,70,335,111"/>
-<area shape="rect" id="node4" href="$classldmxsw_1_1EventImpl.html#ac9f5782d9fe6e7225988a91505143e38" title="ldmxsw::EventImpl::\lnextEvent" alt="" coords="193,135,335,177"/>
-<area shape="rect" id="node5" href="$classldmxsw_1_1EventImpl.html#ad53495666da492f1634b8aa63f59e79a" title="ldmxsw::EventImpl::\lonEndOfEvent" alt="" coords="193,201,335,242"/>
-<area shape="rect" id="node6" href="$classldmxsw_1_1EventImpl.html#adce01dbe8b73de77b7523c196c0c00c7" title="ldmxsw::EventImpl::\lsetInputTree" alt="" coords="193,266,335,307"/>
-<area shape="rect" id="node7" href="$classldmxsw_1_1EventImpl.html#af254e43f02928c79d21f02fe1a6d5f49" title="ldmxsw::EventImpl::\lsetOutputTree" alt="" coords="193,331,335,373"/>
-</map>

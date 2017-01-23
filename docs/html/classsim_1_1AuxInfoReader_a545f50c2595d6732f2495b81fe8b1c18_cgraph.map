@@ -1,6 +1,0 @@
-<map id="sim::AuxInfoReader::createDetectorHeader" name="sim::AuxInfoReader::createDetectorHeader">
-<area shape="rect" id="node2" href="$classdetdescr_1_1DetectorHeader.html#a44650ccb28689cd4ddbe26064bdda3a5" title="detdescr::DetectorHeader\l::getAuthor" alt="" coords="214,5,386,46"/>
-<area shape="rect" id="node3" href="$classdetdescr_1_1DetectorHeader.html#a5f039bd780716733ae72055387db9920" title="detdescr::DetectorHeader\l::getDescription" alt="" coords="214,70,386,111"/>
-<area shape="rect" id="node4" href="$classdetdescr_1_1DetectorHeader.html#adb61a05abb4201a7e446163e60f5e0d5" title="detdescr::DetectorHeader\l::getName" alt="" coords="214,135,386,177"/>
-<area shape="rect" id="node5" href="$classdetdescr_1_1DetectorHeader.html#a0e32e92e6c045cac3bc3c8b64cb81fed" title="detdescr::DetectorHeader\l::getVersion" alt="" coords="214,201,386,242"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="DetDescr/include/DetDescr/EcalDetectorID.h" name="DetDescr/include/DetDescr/EcalDetectorID.h">
-<area shape="rect" id="node2" href="$DefaultDetectorID_8h.html" title="Class that defines a default detector ID. " alt="" coords="5,96,203,123"/>
-<area shape="rect" id="node3" href="$DetectorID_8h.html" title="Class that defines a 32&#45;bit packed ID for uniquely identifying hits and detector components. " alt="" coords="25,171,183,197"/>
-<area shape="rect" id="node5" href="$IDField_8h.html" title="Class that defines a single field in a bit&#45;packed detector ID. " alt="" coords="90,245,224,272"/>
-</map>

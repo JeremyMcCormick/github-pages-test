@@ -1,9 +1,0 @@
-<map id="SimApplication/include/SimApplication/CalorimeterSD.h" name="SimApplication/include/SimApplication/CalorimeterSD.h">
-<area shape="rect" id="node2" href="$EcalSD_8h.html" title="Class defining an ECal sensitive detector using an EcalHexReadout to create the hits. " alt="" coords="19,97,192,138"/>
-<area shape="rect" id="node5" href="$HcalSD_8h.html" title="Class defining an HCal sensitive detector. " alt="" coords="267,97,441,138"/>
-<area shape="rect" id="node3" href="$AuxInfoReader_8cxx_source.html" title="SimApplication/src\l/AuxInfoReader.cxx" alt="" coords="160,187,299,229"/>
-<area shape="rect" id="node7" href="$CalorimeterSD_8cxx_source.html" title="SimApplication/src\l/CalorimeterSD.cxx" alt="" coords="466,97,603,138"/>
-<area shape="rect" id="node8" href="$RootPersistencyManager_8cxx_source.html" title="SimApplication/src\l/RootPersistencyManager.cxx" alt="" coords="627,97,825,138"/>
-<area shape="rect" id="node4" href="$EcalSD_8cxx_source.html" title="SimApplication/src\l/EcalSD.cxx" alt="" coords="5,187,136,229"/>
-<area shape="rect" id="node6" href="$HcalSD_8cxx_source.html" title="SimApplication/src\l/HcalSD.cxx" alt="" coords="323,187,453,229"/>
-</map>

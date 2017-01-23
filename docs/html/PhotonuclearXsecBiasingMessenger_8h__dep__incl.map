@@ -1,5 +1,0 @@
-<map id="SimPlugins/include/SimPlugins/PhotonuclearXsecBiasingMessenger.h" name="SimPlugins/include/SimPlugins/PhotonuclearXsecBiasingMessenger.h">
-<area shape="rect" id="node2" href="$PhotonuclearXsecBiasingPlugin_8h.html" title="Class that defines a simulation plugin for biasing the photonuclear xsec by a specified value..." alt="" coords="137,109,340,165"/>
-<area shape="rect" id="node3" href="$PhotonuclearXsecBiasingMessenger_8cxx_source.html" title="SimPlugins/src/Photonuclear\lXsecBiasingMessenger.cxx" alt="" coords="5,214,195,255"/>
-<area shape="rect" id="node4" href="$PhotonuclearXsecBiasingPlugin_8cxx_source.html" title="SimPlugins/src/Photonuclear\lXsecBiasingPlugin.cxx" alt="" coords="219,214,409,255"/>
-</map>

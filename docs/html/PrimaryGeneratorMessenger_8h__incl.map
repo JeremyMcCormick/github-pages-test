@@ -1,7 +1,0 @@
-<map id="SimApplication/include/SimApplication/PrimaryGeneratorMessenger.h" name="SimApplication/include/SimApplication/PrimaryGeneratorMessenger.h">
-<area shape="rect" id="node3" href="$PrimaryGeneratorAction_8h.html" title="Class implementing the Geant4 primary generator action. " alt="" coords="241,110,455,151"/>
-<area shape="rect" id="node6" href="$PluginManagerAccessor_8h.html" title="Mixin class for accessing the plugin manager. " alt="" coords="456,201,635,242"/>
-<area shape="rect" id="node7" href="$PluginManager_8h.html" title="Class for managing the loading, activation and destruction of UserSimPlugin objects. " alt="" coords="451,291,640,317"/>
-<area shape="rect" id="node8" href="$PluginLoader_8h.html" title="Class which loads user simulation plugins from external shared libraries. " alt="" coords="255,365,433,392"/>
-<area shape="rect" id="node9" href="$UserActionPlugin_8h.html" title="Class defining an interface for a user simulation plugin. " alt="" coords="327,440,531,467"/>
-</map>

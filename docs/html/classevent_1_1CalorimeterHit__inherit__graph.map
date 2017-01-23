@@ -1,4 +1,0 @@
-<map id="event::CalorimeterHit" name="event::CalorimeterHit">
-<area shape="rect" id="node3" href="$classevent_1_1EcalHit.html" title="Stores reconstructed hit information from the ECAL. " alt="" coords="5,155,109,181"/>
-<area shape="rect" id="node4" href="$classevent_1_1HcalHit.html" title="Stores reconstructed hit information from the HCAL. " alt="" coords="135,155,241,181"/>
-</map>

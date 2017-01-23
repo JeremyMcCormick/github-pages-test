@@ -1,6 +1,0 @@
-<map id="TriggerProcessor" name="TriggerProcessor">
-<area shape="rect" id="node2" href="$classldmxsw_1_1Producer.html" title="Base class for a module which produces a data product. " alt="" coords="26,264,152,291"/>
-<area shape="rect" id="node3" href="$classldmxsw_1_1EventProcessor.html" title="Base class for all event processing components. " alt="" coords="5,187,173,213"/>
-<area shape="rect" id="node5" href="$classldmxsw_1_1Process.html" title="Class which represents the process under execution. " alt="" coords="136,96,259,123"/>
-<area shape="rect" id="node6" href="$classevent_1_1TriggerResult.html" title="Represents the trigger decision (pass/fail) for reconstruction. " alt="" coords="177,264,316,291"/>
-</map>

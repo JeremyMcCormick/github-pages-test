@@ -1,8 +1,0 @@
-<map id="sim::PluginManagerAccessor" name="sim::PluginManagerAccessor">
-<area shape="rect" id="node2" href="$classsim_1_1PrimaryGeneratorAction.html" title="Implementation of Geant4 primary generator action. " alt="" coords="246,5,437,32"/>
-<area shape="rect" id="node3" href="$classsim_1_1SteppingAction.html" title="Implements the Geant4 user stepping action. " alt="" coords="272,56,411,83"/>
-<area shape="rect" id="node4" href="$classsim_1_1UserEventAction.html" title="Implementation of user event action hook. " alt="" coords="266,107,417,133"/>
-<area shape="rect" id="node5" href="$classsim_1_1UserRunAction.html" title="Implementation of user run action hook. " alt="" coords="271,157,411,184"/>
-<area shape="rect" id="node6" href="$classsim_1_1UserStackingAction.html" title="User stacking action implementation. " alt="" coords="258,208,425,235"/>
-<area shape="rect" id="node7" href="$classsim_1_1UserTrackingAction.html" title="Implementation of user tracking action. " alt="" coords="258,259,425,285"/>
-</map>

@@ -1,4 +1,0 @@
-<map id="TriggerProcessor::produce" name="TriggerProcessor::produce">
-<area shape="rect" id="node2" href="$classevent_1_1CalorimeterHit.html#a80828a5284a225d6ba14d7bd25237369" title="event::CalorimeterHit\l::getEnergy" alt="" coords="229,5,376,46"/>
-<area shape="rect" id="node3" href="$classevent_1_1CalorimeterHit.html#a80fb3e3152bcb16ea557288326726212" title="event::CalorimeterHit\l::getLayer" alt="" coords="229,70,376,111"/>
-</map>

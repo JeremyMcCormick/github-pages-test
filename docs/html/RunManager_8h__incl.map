@@ -1,9 +1,0 @@
-<map id="SimApplication/include/SimApplication/RunManager.h" name="SimApplication/include/SimApplication/RunManager.h">
-<area shape="rect" id="node5" href="$PluginMessenger_8h.html" title="Class defining a messenger for simulation plugins. " alt="" coords="472,96,675,123"/>
-<area shape="rect" id="node17" href="$DetectorConstruction_8h.html" title="Class implementing the Geant4 detector construction. " alt="" coords="788,96,1036,123"/>
-<area shape="rect" id="node7" href="$PluginManager_8h.html" title="Class for managing the loading, activation and destruction of UserSimPlugin objects. " alt="" coords="479,171,668,197"/>
-<area shape="rect" id="node8" href="$PluginLoader_8h.html" title="Class which loads user simulation plugins from external shared libraries. " alt="" coords="220,245,399,272"/>
-<area shape="rect" id="node9" href="$UserActionPlugin_8h.html" title="Class defining an interface for a user simulation plugin. " alt="" coords="293,320,496,347"/>
-<area shape="rect" id="node18" href="$AuxInfoReader_8h.html" title="Class for reading reading auxiliary information from GDML. " alt="" coords="720,171,840,197"/>
-<area shape="rect" id="node20" href="$DetectorHeader_8h.html" title="Class that defines a header with detector information. " alt="" coords="717,245,901,272"/>
-</map>

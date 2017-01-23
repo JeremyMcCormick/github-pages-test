@@ -1,9 +1,0 @@
-<map id="sim::UserRunAction::BeginOfRunAction" name="sim::UserRunAction::BeginOfRunAction">
-<area shape="rect" id="node2" href="$classsim_1_1PluginManager.html#a07d459955714104e331ddf78637f5d0f" title="sim::PluginManager\l::beginRun" alt="" coords="226,5,363,46"/>
-<area shape="rect" id="node3" href="$classsim_1_1RootPersistencyManager.html#abdd17f9feebd68824d509be5808aecb8" title="sim::RootPersistencyManager\l::getInstance" alt="" coords="195,70,394,111"/>
-<area shape="rect" id="node4" href="$classsim_1_1RootPersistencyManager.html#afcae1e4089611e8a66c111fb47b1516e" title="sim::RootPersistencyManager\l::Initialize" alt="" coords="195,135,394,177"/>
-<area shape="rect" id="node5" href="$classldmxsw_1_1EventFile.html#a986f57a961e8301d21e9c8aedc42a914" title="ldmxsw::EventFile::\lsetupEvent" alt="" coords="473,102,612,143"/>
-<area shape="rect" id="node8" href="$classsim_1_1RootPersistencyManager.html#af5bc2859ccdda776012a61e717b05ae9" title="sim::RootPersistencyManager\l::setupHitsCollectionMap" alt="" coords="443,167,642,209"/>
-<area shape="rect" id="node6" href="$classldmxsw_1_1EventImpl.html#a830d561cca82525c7f8693c52332554a" title="ldmxsw::EventImpl::\lcreateTree" alt="" coords="691,70,834,111"/>
-<area shape="rect" id="node7" href="$classldmxsw_1_1EventImpl.html#adce01dbe8b73de77b7523c196c0c00c7" title="ldmxsw::EventImpl::\lsetInputTree" alt="" coords="691,135,834,177"/>
-</map>

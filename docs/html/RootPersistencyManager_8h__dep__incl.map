@@ -1,8 +1,0 @@
-<map id="SimApplication/include/SimApplication/RootPersistencyManager.h" name="SimApplication/include/SimApplication/RootPersistencyManager.h">
-<area shape="rect" id="node2" href="$RootPersistencyMessenger_8h.html" title="Class providing macro commands for ROOT persistency. " alt="" coords="101,109,315,165"/>
-<area shape="rect" id="node5" href="$RootPersistencyManager_8cxx_source.html" title="SimApplication/src\l/RootPersistencyManager.cxx" alt="" coords="339,117,537,158"/>
-<area shape="rect" id="node6" href="$UserEventAction_8cxx_source.html" title="SimApplication/src\l/UserEventAction.cxx" alt="" coords="562,117,712,158"/>
-<area shape="rect" id="node7" href="$UserRunAction_8cxx_source.html" title="SimApplication/src\l/UserRunAction.cxx" alt="" coords="737,117,876,158"/>
-<area shape="rect" id="node3" href="$RootPersistencyMessenger_8cxx_source.html" title="SimApplication/src\l/RootPersistencyMessenger.cxx" alt="" coords="5,214,216,255"/>
-<area shape="rect" id="node4" href="$RunManager_8cxx_source.html" title="SimApplication/src\l/RunManager.cxx" alt="" coords="241,214,372,255"/>
-</map>

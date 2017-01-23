@@ -1,5 +1,0 @@
-<map id="SimPlugins/include/SimPlugins/PhotonuclearXsecBiasingPlugin.h" name="SimPlugins/include/SimPlugins/PhotonuclearXsecBiasingPlugin.h">
-<area shape="rect" id="node6" href="$UserActionPlugin_8h.html" title="Class defining an interface for a user simulation plugin. " alt="" coords="545,291,748,317"/>
-<area shape="rect" id="node12" href="$PhotonuclearXsecBiasingMessenger_8h.html" title="Class providing a macro messenger for a PhotonuclearXsecBiasingPlugin. " alt="" coords="726,110,924,151"/>
-<area shape="rect" id="node13" href="$UserActionPluginMessenger_8h.html" title="Class defining a macro messenger for a UserActionPlugin. " alt="" coords="743,201,936,242"/>
-</map>

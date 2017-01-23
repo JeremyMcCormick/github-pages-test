@@ -1,5 +1,0 @@
-<map id="dummy::DummyAnalyzer" name="dummy::DummyAnalyzer">
-<area shape="rect" id="node2" href="$classldmxsw_1_1Analyzer.html" title="Base class for a module which does not produce a data product. " alt="" coords="27,264,153,291"/>
-<area shape="rect" id="node3" href="$classldmxsw_1_1EventProcessor.html" title="Base class for all event processing components. " alt="" coords="7,187,175,213"/>
-<area shape="rect" id="node5" href="$classldmxsw_1_1Process.html" title="Class which represents the process under execution. " alt="" coords="137,96,260,123"/>
-</map>
