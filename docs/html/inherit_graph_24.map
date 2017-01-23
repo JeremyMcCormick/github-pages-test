@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node2" href="$classsim_1_1CalorimeterSD.html" title="Basic calorimeter sensitive detector. " alt="" coords="206,31,343,57"/>
+<area shape="rect" id="node5" href="$classsim_1_1TrackerSD.html" title="Basic sensitive detector for trackers. " alt="" coords="217,81,332,108"/>
+<area shape="rect" id="node3" href="$classsim_1_1EcalSD.html" title="ECal sensitive detector that uses an EcalHexReadout to create the hits. " alt="" coords="393,5,489,32"/>
+<area shape="rect" id="node4" href="$classsim_1_1HcalSD.html" title="HCal sensitive detector. " alt="" coords="393,56,490,83"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="Framework/src/DummyProducer.cxx" name="Framework/src/DummyProducer.cxx">
+<area shape="rect" id="node2" href="$EventProcessor_8h.html" title="Base classes for all user event processing components to extend. " alt="" coords="9,80,204,107"/>
+<area shape="rect" id="node7" href="$ParameterSet_8h.html" title="Class which contains the parameters for an EventProcessor configuration. " alt="" coords="229,80,411,107"/>
+<area shape="rect" id="node11" href="$SimParticle_8h.html" title="Class which implements an MC particle that stores information about tracks from the simulation..." alt="" coords="436,80,575,107"/>
+<area shape="rect" id="node14" href="$Event_8h.html" title="Class defining an abstract interface for accessing event information and data collections. " alt="" coords="599,80,704,107"/>
+<area shape="rect" id="node3" href="$Exception_8h.html" title="Class that provides a standard base exception class. " alt="" coords="5,155,165,181"/>
+<area shape="rect" id="node15" href="$EventHeader_8h.html" title="Class that provides header information about an event such as event number and timestamp. " alt="" coords="664,155,811,181"/>
+</map>

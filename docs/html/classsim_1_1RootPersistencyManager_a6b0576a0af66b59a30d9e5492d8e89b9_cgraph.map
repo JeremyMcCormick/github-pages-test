@@ -1,0 +1,12 @@
+<map id="sim::RootPersistencyManager::writeRunHeader" name="sim::RootPersistencyManager::writeRunHeader">
+<area shape="rect" id="node2" href="$classsim_1_1RootPersistencyManager.html#a6b64cd03613da4cdee75ca570dd9a079" title="sim::RootPersistencyManager\l::createRunHeader" alt="" coords="254,207,453,249"/>
+<area shape="rect" id="node3" href="$classevent_1_1RunHeader.html#aa55b641eec2e37d4464d72e8ec069a84" title="event::RunHeader::getDescription" alt="" coords="511,5,731,32"/>
+<area shape="rect" id="node4" href="$classsim_1_1DetectorConstruction.html#a69fe1f5e5e59689de349dcf0a0685d9c" title="sim::DetectorConstruction\l::getDetectorHeader" alt="" coords="534,57,709,98"/>
+<area shape="rect" id="node6" href="$classevent_1_1RunHeader.html#a21ffa4f0e2603fb88ab17a56ead3ab63" title="event::RunHeader::getDetectorName" alt="" coords="502,123,741,149"/>
+<area shape="rect" id="node7" href="$classevent_1_1RunHeader.html#aca2286dcb236939b61443906dc1f1b25" title="event::RunHeader::getDetector\lVersion" alt="" coords="519,174,723,215"/>
+<area shape="rect" id="node8" href="$classdetdescr_1_1DetectorHeader.html#adb61a05abb4201a7e446163e60f5e0d5" title="detdescr::DetectorHeader\l::getName" alt="" coords="535,239,707,281"/>
+<area shape="rect" id="node9" href="$classevent_1_1RunHeader.html#a42ff17bfac3ec6fcf746fbf92ff255cd" title="event::RunHeader::getRun\lNumber" alt="" coords="532,305,711,346"/>
+<area shape="rect" id="node10" href="$classdetdescr_1_1DetectorHeader.html#a0e32e92e6c045cac3bc3c8b64cb81fed" title="detdescr::DetectorHeader\l::getVersion" alt="" coords="535,370,707,411"/>
+<area shape="rect" id="node11" href="$classevent_1_1RunHeader.html#a4b88a8e70d0eb4888ea145c2f98429a2" title="event::RunHeader::setInt\lParameter" alt="" coords="537,435,706,477"/>
+<area shape="rect" id="node5" href="$classsim_1_1AuxInfoReader.html#a32d1f4d96f33cda2fe7c8e2bc5ad52b0" title="sim::AuxInfoReader\l::getDetectorHeader" alt="" coords="790,57,930,98"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node2" href="$classsim_1_1G4CalorimeterHit.html" title="Calorimeter hit which is used to create output SimCalorimeterHit objects. " alt="" coords="120,5,272,32"/>
+<area shape="rect" id="node3" href="$classsim_1_1G4TrackerHit.html" title="Track hit which is used to create output SimTrackerHit collection. " alt="" coords="131,56,261,83"/>
+</map>

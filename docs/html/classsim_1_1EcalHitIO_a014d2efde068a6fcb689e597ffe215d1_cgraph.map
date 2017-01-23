@@ -1,0 +1,28 @@
+<map id="sim::EcalHitIO::writeHitsCollection" name="sim::EcalHitIO::writeHitsCollection">
+<area shape="rect" id="node2" href="$classevent_1_1SimCalorimeterHit.html#ab1d3718e2028e5975d341f60fe7a217a" title="event::SimCalorimeterHit\l::addContrib" alt="" coords="226,5,395,46"/>
+<area shape="rect" id="node3" href="$classevent_1_1SimCalorimeterHit.html#a1264eac0e668ea796e7140d8cba7d333" title="event::SimCalorimeterHit\l::findContribIndex" alt="" coords="226,70,395,111"/>
+<area shape="rect" id="node5" href="$classsim_1_1SimParticleBuilder.html#adecaad3d38c0fbcad57b1ddf3eac3606" title="sim::SimParticleBuilder\l::findSimParticle" alt="" coords="231,135,390,177"/>
+<area shape="rect" id="node8" href="$classdetdescr_1_1EcalHexReadout.html#a79ca25d0b70f3904cfac78945eff3fe2" title="detdescr::EcalHexReadout\l::getCellCentroidXYPair" alt="" coords="221,201,400,242"/>
+<area shape="rect" id="node9" href="$classevent_1_1SimCalorimeterHit.html#ae67a5fa1bf2b99fdefd46775bebd9ca4" title="event::SimCalorimeterHit\l::getEdep" alt="" coords="226,266,395,307"/>
+<area shape="rect" id="node10" href="$classsim_1_1G4CalorimeterHit.html#a73584665dfbd82483400b6f676afc6e3" title="sim::G4CalorimeterHit\l::getEdep" alt="" coords="235,331,387,373"/>
+<area shape="rect" id="node11" href="$classdetdescr_1_1DetectorID.html#a674525a8dec7c521fd6e93c8f5d8793c" title="detdescr::DetectorID\l::getFieldValue" alt="" coords="239,397,383,438"/>
+<area shape="rect" id="node12" href="$classsim_1_1G4CalorimeterHit.html#a0e34515230ed6c4500796fe719238fd5" title="sim::G4CalorimeterHit\l::getID" alt="" coords="235,462,387,503"/>
+<area shape="rect" id="node13" href="$classsim_1_1G4CalorimeterHit.html#a6c07e7b5e75aefba809f0674eb9948c2" title="sim::G4CalorimeterHit\l::getPdgCode" alt="" coords="235,527,387,569"/>
+<area shape="rect" id="node14" href="$classsim_1_1G4CalorimeterHit.html#ac9010aec363e1f989aa4ebc463b2fb31" title="sim::G4CalorimeterHit\l::getPosition" alt="" coords="235,593,387,634"/>
+<area shape="rect" id="node15" href="$classevent_1_1SimCalorimeterHit.html#aa32ea19a0dcd473bd6fd2928145a6b28" title="event::SimCalorimeterHit\l::getTime" alt="" coords="226,658,395,699"/>
+<area shape="rect" id="node16" href="$classsim_1_1G4CalorimeterHit.html#acdd789fbb643e06dd6c8bcae7f77a404" title="sim::G4CalorimeterHit\l::getTime" alt="" coords="235,723,387,765"/>
+<area shape="rect" id="node17" href="$classsim_1_1G4CalorimeterHit.html#a76eb7f150dc06d58818150151b36429e" title="sim::G4CalorimeterHit\l::getTrackID" alt="" coords="235,789,387,830"/>
+<area shape="rect" id="node18" href="$classevent_1_1SimCalorimeterHit.html#ac069c2dc8d726c4190600312984cbec5" title="event::SimCalorimeterHit\l::setEdep" alt="" coords="226,854,395,895"/>
+<area shape="rect" id="node19" href="$classevent_1_1SimCalorimeterHit.html#aba89bc74c54f2f590a6a90d580dfb3f5" title="event::SimCalorimeterHit\l::setID" alt="" coords="226,919,395,961"/>
+<area shape="rect" id="node20" href="$classevent_1_1SimCalorimeterHit.html#a55a57998cc6f7caf1653e051b34c9af2" title="event::SimCalorimeterHit\l::setPosition" alt="" coords="226,985,395,1026"/>
+<area shape="rect" id="node21" href="$classdetdescr_1_1DetectorID.html#a554d45164f4143cc0166498a8adeca02" title="detdescr::DetectorID\l::setRawValue" alt="" coords="239,1050,383,1091"/>
+<area shape="rect" id="node22" href="$classevent_1_1SimCalorimeterHit.html#a40d98e0551886e3ea383f525daf558d6" title="event::SimCalorimeterHit\l::setTime" alt="" coords="226,1115,395,1157"/>
+<area shape="rect" id="node23" href="$classdetdescr_1_1DetectorID.html#a3eeb365dedd76b76760d32dd49597cec" title="detdescr::DetectorID\l::unpack" alt="" coords="239,1181,383,1222"/>
+<area shape="rect" id="node27" href="$classevent_1_1SimCalorimeterHit.html#ad79c5355ba7aaed775ae5f8b9924d227" title="event::SimCalorimeterHit\l::updateContrib" alt="" coords="226,1246,395,1287"/>
+<area shape="rect" id="node4" href="$classevent_1_1SimCalorimeterHit.html#a04ee6b57cd07917f2adab6987c7cf956" title="event::SimCalorimeterHit\l::getContrib" alt="" coords="462,70,631,111"/>
+<area shape="rect" id="node6" href="$classsim_1_1TrackMap.html#a155d922b0d603d649899c8841e38b2c1" title="sim::TrackMap::findTrajectory" alt="" coords="449,143,645,169"/>
+<area shape="rect" id="node7" href="$classsim_1_1TrajectoryContainer.html#a7f70ae7bc9d2098f6a8fe39e63409bc4" title="sim::TrajectoryContainer\l::findByTrackID" alt="" coords="693,135,859,177"/>
+<area shape="rect" id="node24" href="$classdetdescr_1_1IDField.html#a6b101ca118e2f8ac252fcd11d93fb62e" title="detdescr::IDField::\lgetBitMask" alt="" coords="481,1115,612,1157"/>
+<area shape="rect" id="node25" href="$classdetdescr_1_1IDField.html#a4fb9097fd43333cf04c31cafd127a88b" title="detdescr::IDField::\lgetIndex" alt="" coords="481,1181,612,1222"/>
+<area shape="rect" id="node26" href="$classdetdescr_1_1IDField.html#a8240b17f3444b5c6c309611fbbd12fbd" title="detdescr::IDField::\lgetStartBit" alt="" coords="481,1246,612,1287"/>
+</map>

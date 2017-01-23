@@ -1,0 +1,9 @@
+<map id="SimApplication/include/SimApplication/TrackerSD.h" name="SimApplication/include/SimApplication/TrackerSD.h">
+<area shape="rect" id="node3" href="$G4TrackerHit_8h.html" title="Class defining a tracker hit which is used to create output SimTrackerHit collection. " alt="" coords="522,97,696,138"/>
+<area shape="rect" id="node17" href="$DetectorID_8h.html" title="Class that defines a 32&#45;bit packed ID for uniquely identifying hits and detector components. " alt="" coords="959,104,1116,131"/>
+<area shape="rect" id="node21" href="$Event_8h.html" title="Class defining an abstract interface for accessing event information and data collections. " alt="" coords="841,187,945,213"/>
+<area shape="rect" id="node8" href="$SimTrackerHit_8h.html" title="Class which encapsulates information from a hit in a simulated tracking detector. ..." alt="" coords="5,187,160,213"/>
+<area shape="rect" id="node13" href="$SimParticle_8h.html" title="Class which implements an MC particle that stores information about tracks from the simulation..." alt="" coords="765,261,904,288"/>
+<area shape="rect" id="node18" href="$IDField_8h.html" title="Class that defines a single field in a bit&#45;packed detector ID. " alt="" coords="970,187,1104,213"/>
+<area shape="rect" id="node23" href="$EventHeader_8h.html" title="Class that provides header information about an event such as event number and timestamp. " alt="" coords="355,261,501,288"/>
+</map>

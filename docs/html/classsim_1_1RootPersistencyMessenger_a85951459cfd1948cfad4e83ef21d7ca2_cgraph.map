@@ -1,0 +1,8 @@
+<map id="sim::RootPersistencyMessenger::SetNewValue" name="sim::RootPersistencyMessenger::SetNewValue">
+<area shape="rect" id="node2" href="$classsim_1_1RootPersistencyManager.html#abdd17f9feebd68824d509be5808aecb8" title="sim::RootPersistencyManager\l::getInstance" alt="" coords="267,5,466,46"/>
+<area shape="rect" id="node3" href="$classsim_1_1RootPersistencyManager.html#a84bddf852ee5cd48fd74c9435e46e8bc" title="sim::RootPersistencyManager\l::setCompressHitContribs" alt="" coords="267,70,466,111"/>
+<area shape="rect" id="node5" href="$classsim_1_1RootPersistencyManager.html#a36f3412b6eeb7fed4db77d083e5e17c3" title="sim::RootPersistencyManager\l::setEnableHitContribs" alt="" coords="267,135,466,177"/>
+<area shape="rect" id="node7" href="$classsim_1_1RootPersistencyManager.html#ab477b2c5285fb0337d64fdfffb42aecd" title="sim::RootPersistencyManager\l::setFileName" alt="" coords="267,201,466,242"/>
+<area shape="rect" id="node4" href="$classsim_1_1EcalHitIO.html#aec9160c2f4c86eb4f163a26b5a8be299" title="sim::EcalHitIO::setCompress\lHitContribs" alt="" coords="515,70,709,111"/>
+<area shape="rect" id="node6" href="$classsim_1_1EcalHitIO.html#ade3b375b65fdf46c5e8bbc839957e66b" title="sim::EcalHitIO::setEnable\lHitContribs" alt="" coords="525,135,699,177"/>
+</map>

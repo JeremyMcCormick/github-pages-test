@@ -1,0 +1,5 @@
+<map id="sim::PluginManager::create" name="sim::PluginManager::create">
+<area shape="rect" id="node2" href="$classsim_1_1PluginLoader.html#af718ad39dba9e60cf87d2b47bad3e0f0" title="sim::PluginLoader::\lcreate" alt="" coords="194,5,329,46"/>
+<area shape="rect" id="node3" href="$classsim_1_1PluginManager.html#a2a68d5f29459114438a50264e17a86f5" title="sim::PluginManager\l::findPlugin" alt="" coords="193,70,330,111"/>
+<area shape="rect" id="node4" href="$classsim_1_1PluginManager.html#aee72e6452a4dff9b7215918c5ea96ed1" title="sim::PluginManager\l::registerPlugin" alt="" coords="193,135,330,177"/>
+</map>

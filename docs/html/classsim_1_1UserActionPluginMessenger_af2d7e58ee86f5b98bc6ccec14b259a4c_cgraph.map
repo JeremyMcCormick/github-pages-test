@@ -1,0 +1,5 @@
+<map id="sim::UserActionPluginMessenger::SetNewValue" name="sim::UserActionPluginMessenger::SetNewValue">
+<area shape="rect" id="node2" href="$classsim_1_1UserActionPlugin.html#ae9e5d410942aed95a308b7fd7ed33a4d" title="sim::UserActionPlugin\l::getName" alt="" coords="269,5,421,46"/>
+<area shape="rect" id="node3" href="$classsim_1_1UserActionPlugin.html#a7ddd2ade9b2eb7472961aa916f36d799" title="sim::UserActionPlugin\l::getVerboseLevel" alt="" coords="269,70,421,111"/>
+<area shape="rect" id="node4" href="$classsim_1_1UserActionPlugin.html#a36cd7cdea2c1009ffb962b53adb9ebe9" title="sim::UserActionPlugin\l::setVerboseLevel" alt="" coords="269,135,421,177"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="sim::RootPersistencyManager::Initialize" name="sim::RootPersistencyManager::Initialize">
+<area shape="rect" id="node2" href="$classldmxsw_1_1EventFile.html#a986f57a961e8301d21e9c8aedc42a914" title="ldmxsw::EventFile::\lsetupEvent" alt="" coords="284,37,423,78"/>
+<area shape="rect" id="node5" href="$classsim_1_1RootPersistencyManager.html#af5bc2859ccdda776012a61e717b05ae9" title="sim::RootPersistencyManager\l::setupHitsCollectionMap" alt="" coords="254,102,453,143"/>
+<area shape="rect" id="node3" href="$classldmxsw_1_1EventImpl.html#a830d561cca82525c7f8693c52332554a" title="ldmxsw::EventImpl::\lcreateTree" alt="" coords="502,5,645,46"/>
+<area shape="rect" id="node4" href="$classldmxsw_1_1EventImpl.html#adce01dbe8b73de77b7523c196c0c00c7" title="ldmxsw::EventImpl::\lsetInputTree" alt="" coords="502,70,645,111"/>
+</map>

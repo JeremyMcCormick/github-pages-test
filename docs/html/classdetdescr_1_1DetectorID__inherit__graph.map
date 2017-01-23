@@ -1,0 +1,4 @@
+<map id="detdescr::DetectorID" name="detdescr::DetectorID">
+<area shape="rect" id="node2" href="$classdetdescr_1_1DefaultDetectorID.html" title="Defines a default detector ID with encoded layer and subdetector values. " alt="" coords="5,80,192,107"/>
+<area shape="rect" id="node3" href="$classdetdescr_1_1EcalDetectorID.html" title="Extension of DefaultDetectorID providing access to ECal cell number in a hex grid. " alt="" coords="13,155,184,181"/>
+</map>

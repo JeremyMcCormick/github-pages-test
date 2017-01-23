@@ -1,0 +1,8 @@
+<map id="Event/include/Event/TriggerResult.h" name="Event/include/Event/TriggerResult.h">
+<area shape="rect" id="node2" href="$EventDef_8h.html" title="Headers to be processed when creating the ROOT dictionary. " alt="" coords="5,97,144,138"/>
+<area shape="rect" id="node3" href="$TriggerResult_8cxx_source.html" title="Event/src/TriggerResult.cxx" alt="" coords="169,104,353,131"/>
+<area shape="rect" id="node4" href="$EcalVetoProcessor_8h.html" title="Class that determines if event is vetoable using ECAL hit information. " alt="" coords="378,97,571,138"/>
+<area shape="rect" id="node6" href="$TriggerProcessor_8h.html" title="Class that provides a trigger decision for recon using a TriggerResult object. " alt="" coords="595,97,788,138"/>
+<area shape="rect" id="node7" href="$TriggerProcessor_8cxx_source.html" title="EventProc/src/TriggerProcessor.cxx" alt="" coords="666,187,899,213"/>
+<area shape="rect" id="node5" href="$EcalVetoProcessor_8cxx_source.html" title="EventProc/src/EcalVetoProcessor.cxx" alt="" coords="351,187,597,213"/>
+</map>

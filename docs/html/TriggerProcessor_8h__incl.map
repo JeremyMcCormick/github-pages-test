@@ -1,0 +1,8 @@
+<map id="EventProc/include/EventProc/TriggerProcessor.h" name="EventProc/include/EventProc/TriggerProcessor.h">
+<area shape="rect" id="node2" href="$TriggerResult_8h.html" title="Class that represents the trigger decision (pass/fail) for reconstruction. " alt="" coords="115,171,264,197"/>
+<area shape="rect" id="node7" href="$Event_8h.html" title="Class defining an abstract interface for accessing event information and data collections. " alt="" coords="514,96,619,123"/>
+<area shape="rect" id="node13" href="$ParameterSet_8h.html" title="Class which contains the parameters for an EventProcessor configuration. " alt="" coords="870,96,1052,123"/>
+<area shape="rect" id="node15" href="$EventProcessor_8h.html" title="Base classes for all user event processing components to extend. " alt="" coords="644,96,839,123"/>
+<area shape="rect" id="node9" href="$EventHeader_8h.html" title="Class that provides header information about an event such as event number and timestamp. " alt="" coords="339,171,485,197"/>
+<area shape="rect" id="node16" href="$Exception_8h.html" title="Class that provides a standard base exception class. " alt="" coords="771,171,931,197"/>
+</map>

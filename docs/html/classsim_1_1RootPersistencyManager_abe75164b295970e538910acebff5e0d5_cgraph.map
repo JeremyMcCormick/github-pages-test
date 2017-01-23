@@ -1,0 +1,14 @@
+<map id="sim::RootPersistencyManager::Store" name="sim::RootPersistencyManager::Store">
+<area shape="rect" id="node2" href="$classldmxsw_1_1EventFile.html#a643a55c731ef408b43cebb08a4231164" title="ldmxsw::EventFile::\lclose" alt="" coords="284,142,423,183"/>
+<area shape="rect" id="node3" href="$classsim_1_1RootPersistencyManager.html#a6b0576a0af66b59a30d9e5492d8e89b9" title="sim::RootPersistencyManager\l::writeRunHeader" alt="" coords="254,207,453,249"/>
+<area shape="rect" id="node4" href="$classsim_1_1RootPersistencyManager.html#a6b64cd03613da4cdee75ca570dd9a079" title="sim::RootPersistencyManager\l::createRunHeader" alt="" coords="502,207,701,249"/>
+<area shape="rect" id="node5" href="$classevent_1_1RunHeader.html#aa55b641eec2e37d4464d72e8ec069a84" title="event::RunHeader::getDescription" alt="" coords="759,5,979,32"/>
+<area shape="rect" id="node6" href="$classsim_1_1DetectorConstruction.html#a69fe1f5e5e59689de349dcf0a0685d9c" title="sim::DetectorConstruction\l::getDetectorHeader" alt="" coords="782,57,957,98"/>
+<area shape="rect" id="node8" href="$classevent_1_1RunHeader.html#a21ffa4f0e2603fb88ab17a56ead3ab63" title="event::RunHeader::getDetectorName" alt="" coords="750,123,989,149"/>
+<area shape="rect" id="node9" href="$classevent_1_1RunHeader.html#aca2286dcb236939b61443906dc1f1b25" title="event::RunHeader::getDetector\lVersion" alt="" coords="767,174,971,215"/>
+<area shape="rect" id="node10" href="$classdetdescr_1_1DetectorHeader.html#adb61a05abb4201a7e446163e60f5e0d5" title="detdescr::DetectorHeader\l::getName" alt="" coords="783,239,955,281"/>
+<area shape="rect" id="node11" href="$classevent_1_1RunHeader.html#a42ff17bfac3ec6fcf746fbf92ff255cd" title="event::RunHeader::getRun\lNumber" alt="" coords="780,305,959,346"/>
+<area shape="rect" id="node12" href="$classdetdescr_1_1DetectorHeader.html#a0e32e92e6c045cac3bc3c8b64cb81fed" title="detdescr::DetectorHeader\l::getVersion" alt="" coords="783,370,955,411"/>
+<area shape="rect" id="node13" href="$classevent_1_1RunHeader.html#a4b88a8e70d0eb4888ea145c2f98429a2" title="event::RunHeader::setInt\lParameter" alt="" coords="785,435,954,477"/>
+<area shape="rect" id="node7" href="$classsim_1_1AuxInfoReader.html#a32d1f4d96f33cda2fe7c8e2bc5ad52b0" title="sim::AuxInfoReader\l::getDetectorHeader" alt="" coords="1038,57,1178,98"/>
+</map>

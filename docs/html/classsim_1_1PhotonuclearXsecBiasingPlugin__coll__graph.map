@@ -1,0 +1,5 @@
+<map id="sim::PhotonuclearXsecBiasingPlugin" name="sim::PhotonuclearXsecBiasingPlugin">
+<area shape="rect" id="node3" href="$classsim_1_1PhotonuclearXsecBiasingMessenger.html" title="Messenger for setting parameters on PhotonuclearXsecBiasingPlugin. " alt="" coords="125,203,325,245"/>
+<area shape="rect" id="node2" href="$classsim_1_1UserActionPlugin.html" title="User simulation plugin. " alt="" coords="72,5,224,32"/>
+<area shape="rect" id="node4" href="$classsim_1_1UserActionPluginMessenger.html" title="Messenger for sending macro commands to a UserActionPlugin. " alt="" coords="229,104,445,131"/>
+</map>

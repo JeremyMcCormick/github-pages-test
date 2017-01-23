@@ -1,0 +1,9 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node2" href="$classsim_1_1PluginMessenger.html" title="Messenger class for loading and destroying user sim plugins using macro commands. ..." alt="" coords="205,5,355,32"/>
+<area shape="rect" id="node3" href="$classsim_1_1PrimaryGeneratorMessenger.html" title="Macro messenger for event generation. " alt="" coords="171,56,389,83"/>
+<area shape="rect" id="node4" href="$classsim_1_1RootPersistencyMessenger.html" title="Provides macro commands for RootPersistencyManager. " alt="" coords="174,107,386,133"/>
+<area shape="rect" id="node5" href="$classsim_1_1SimApplicationMessenger.html" title="Macro commands for the simulation application. " alt="" coords="179,157,381,184"/>
+<area shape="rect" id="node6" href="$classsim_1_1UserActionPluginMessenger.html" title="Messenger for sending macro commands to a UserActionPlugin. " alt="" coords="172,208,388,235"/>
+<area shape="rect" id="node7" href="$classsim_1_1EventPrintPluginMessenger.html" title="Messenger class for setting parameters of the EventPrintPlugin. " alt="" coords="438,179,650,205"/>
+<area shape="rect" id="node8" href="$classsim_1_1PhotonuclearXsecBiasingMessenger.html" title="Messenger for setting parameters on PhotonuclearXsecBiasingPlugin. " alt="" coords="444,230,644,271"/>
+</map>

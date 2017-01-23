@@ -1,0 +1,5 @@
+<map id="sim::EventPrintPluginMessenger" name="sim::EventPrintPluginMessenger">
+<area shape="rect" id="node2" href="$classsim_1_1UserActionPluginMessenger.html" title="Messenger for sending macro commands to a UserActionPlugin. " alt="" coords="9,109,225,136"/>
+<area shape="rect" id="node4" href="$classsim_1_1UserActionPlugin.html" title="User simulation plugin. " alt="" coords="147,5,299,32"/>
+<area shape="rect" id="node5" href="$classsim_1_1EventPrintPlugin.html" title="Sim plugin for printing out messages at begin and end of event and run. " alt="" coords="250,109,397,136"/>
+</map>

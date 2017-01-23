@@ -1,0 +1,19 @@
+<map id="HcalDigiProducer::produce" name="HcalDigiProducer::produce">
+<area shape="rect" id="node2" href="$classevent_1_1Event.html#abeed6614c1ba3ec4839651f623a6bc52" title="event::Event::getCollection" alt="" coords="233,5,413,32"/>
+<area shape="rect" id="node4" href="$classevent_1_1SimCalorimeterHit.html#ae67a5fa1bf2b99fdefd46775bebd9ca4" title="event::SimCalorimeterHit\l::getEdep" alt="" coords="238,57,407,98"/>
+<area shape="rect" id="node5" href="$classdetdescr_1_1DetectorID.html#a674525a8dec7c521fd6e93c8f5d8793c" title="detdescr::DetectorID\l::getFieldValue" alt="" coords="251,122,395,163"/>
+<area shape="rect" id="node6" href="$classevent_1_1SimCalorimeterHit.html#a4e6359809fb84491ec06659682de4a2c" title="event::SimCalorimeterHit\l::getID" alt="" coords="238,187,407,229"/>
+<area shape="rect" id="node7" href="$classevent_1_1SimCalorimeterHit.html#a8c0c1fc94717bd6706362b82015862b8" title="event::SimCalorimeterHit\l::getPosition" alt="" coords="238,253,407,294"/>
+<area shape="rect" id="node8" href="$classevent_1_1SimCalorimeterHit.html#aa32ea19a0dcd473bd6fd2928145a6b28" title="event::SimCalorimeterHit\l::getTime" alt="" coords="238,318,407,359"/>
+<area shape="rect" id="node9" href="$classevent_1_1CalorimeterHit.html#a455cb284a837bb873f0213168ffbeac5" title="event::CalorimeterHit\l::setAmplitude" alt="" coords="249,383,396,425"/>
+<area shape="rect" id="node10" href="$classevent_1_1CalorimeterHit.html#a10fd772cd2fc3a599c36a34111f9f554" title="event::CalorimeterHit\l::setEnergy" alt="" coords="249,449,396,490"/>
+<area shape="rect" id="node11" href="$classevent_1_1CalorimeterHit.html#a298a07325ba733303368ffc02b83b842" title="event::CalorimeterHit\l::setID" alt="" coords="249,514,396,555"/>
+<area shape="rect" id="node12" href="$classevent_1_1HcalHit.html#a19feb699848a45a9fc0f2e207e56a7b8" title="event::HcalHit::setPE" alt="" coords="247,580,398,607"/>
+<area shape="rect" id="node13" href="$classdetdescr_1_1DetectorID.html#a554d45164f4143cc0166498a8adeca02" title="detdescr::DetectorID\l::setRawValue" alt="" coords="251,631,395,673"/>
+<area shape="rect" id="node14" href="$classevent_1_1CalorimeterHit.html#ac124edcda363039c0f1ac5eef9c5a056" title="event::CalorimeterHit\l::setTime" alt="" coords="249,697,396,738"/>
+<area shape="rect" id="node15" href="$classdetdescr_1_1DetectorID.html#a3eeb365dedd76b76760d32dd49597cec" title="detdescr::DetectorID\l::unpack" alt="" coords="251,762,395,803"/>
+<area shape="rect" id="node3" href="$classevent_1_1Event.html#ad249b220aa360dbda9ae56066c1b1c90" title="event::Event::getReal" alt="" coords="461,5,611,32"/>
+<area shape="rect" id="node16" href="$classdetdescr_1_1IDField.html#a6b101ca118e2f8ac252fcd11d93fb62e" title="detdescr::IDField::\lgetBitMask" alt="" coords="471,697,601,738"/>
+<area shape="rect" id="node17" href="$classdetdescr_1_1IDField.html#a8240b17f3444b5c6c309611fbbd12fbd" title="detdescr::IDField::\lgetStartBit" alt="" coords="471,762,601,803"/>
+<area shape="rect" id="node18" href="$classdetdescr_1_1IDField.html#a4fb9097fd43333cf04c31cafd127a88b" title="detdescr::IDField::\lgetIndex" alt="" coords="471,827,601,869"/>
+</map>

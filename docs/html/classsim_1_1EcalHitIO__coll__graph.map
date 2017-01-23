@@ -1,0 +1,8 @@
+<map id="sim::EcalHitIO" name="sim::EcalHitIO">
+<area shape="rect" id="node2" href="$classdetdescr_1_1EcalDetectorID.html" title="Extension of DefaultDetectorID providing access to ECal cell number in a hex grid. " alt="" coords="13,173,184,200"/>
+<area shape="rect" id="node3" href="$classdetdescr_1_1DefaultDetectorID.html" title="Defines a default detector ID with encoded layer and subdetector values. " alt="" coords="5,83,192,109"/>
+<area shape="rect" id="node4" href="$classdetdescr_1_1DetectorID.html" title="Defines a 32&#45;bit packed ID for uniquely identifying hits and detector components. ..." alt="" coords="27,5,171,32"/>
+<area shape="rect" id="node5" href="$classsim_1_1SimParticleBuilder.html" title="Builds output SimParticle collection from Trajectory container. " alt="" coords="209,173,367,200"/>
+<area shape="rect" id="node6" href="$classsim_1_1TrackMap.html" title="Defines a map of track ID to parent ID. " alt="" coords="233,83,343,109"/>
+<area shape="rect" id="node7" href="$classdetdescr_1_1EcalHexReadout.html" title="Implementation of ECal hexagonal cell readout. " alt="" coords="392,173,571,200"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="Event/include/Event/EcalHit.h" name="Event/include/Event/EcalHit.h">
+<area shape="rect" id="node2" href="$EventDef_8h.html" title="Headers to be processed when creating the ROOT dictionary. " alt="" coords="5,97,144,138"/>
+<area shape="rect" id="node3" href="$EcalHit_8cxx_source.html" title="Event/src/EcalHit.cxx" alt="" coords="169,104,319,131"/>
+<area shape="rect" id="node4" href="$EcalVetoProcessor_8h.html" title="Class that determines if event is vetoable using ECAL hit information. " alt="" coords="343,97,536,138"/>
+<area shape="rect" id="node6" href="$EcalDigiProducer_8cxx_source.html" title="EventProc/src/EcalDigiProducer.cxx" alt="" coords="561,104,796,131"/>
+<area shape="rect" id="node7" href="$TriggerProcessor_8cxx_source.html" title="EventProc/src/TriggerProcessor.cxx" alt="" coords="821,104,1053,131"/>
+<area shape="rect" id="node5" href="$EcalVetoProcessor_8cxx_source.html" title="EventProc/src/EcalVetoProcessor.cxx" alt="" coords="317,187,563,213"/>
+</map>

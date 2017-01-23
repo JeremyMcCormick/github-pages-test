@@ -1,0 +1,6 @@
+<map id="sim::PrimaryGeneratorMessenger" name="sim::PrimaryGeneratorMessenger">
+<area shape="rect" id="node3" href="$classsim_1_1PrimaryGeneratorAction.html" title="Implementation of Geant4 primary generator action. " alt="" coords="147,264,337,291"/>
+<area shape="rect" id="node5" href="$classsim_1_1PluginManagerAccessor.html" title="Mixin for accessing the PluginManager. " alt="" coords="309,187,501,213"/>
+<area shape="rect" id="node6" href="$classsim_1_1PluginManager.html" title="Manages user sim plugins. " alt="" coords="337,96,473,123"/>
+<area shape="rect" id="node7" href="$classsim_1_1PluginLoader.html" title="Loads user sim plugin classes from external shared libraries. " alt="" coords="342,5,468,32"/>
+</map>

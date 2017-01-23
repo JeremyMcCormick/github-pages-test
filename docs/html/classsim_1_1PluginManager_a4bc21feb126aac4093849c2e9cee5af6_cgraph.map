@@ -1,0 +1,5 @@
+<map id="sim::PluginManager::destroy" name="sim::PluginManager::destroy">
+<area shape="rect" id="node2" href="$classsim_1_1PluginManager.html#a8586f36f07c0a396331c578f6ff438ca" title="sim::PluginManager\l::deregisterPlugin" alt="" coords="193,5,330,46"/>
+<area shape="rect" id="node3" href="$classsim_1_1PluginLoader.html#a8ea42d12b7072b71762369600e88a102" title="sim::PluginLoader::\ldestroy" alt="" coords="194,70,329,111"/>
+<area shape="rect" id="node4" href="$classsim_1_1UserActionPlugin.html#ae9e5d410942aed95a308b7fd7ed33a4d" title="sim::UserActionPlugin\l::getName" alt="" coords="379,70,531,111"/>
+</map>

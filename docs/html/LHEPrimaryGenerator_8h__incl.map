@@ -1,0 +1,5 @@
+<map id="SimApplication/include/SimApplication/LHEPrimaryGenerator.h" name="SimApplication/include/SimApplication/LHEPrimaryGenerator.h">
+<area shape="rect" id="node3" href="$LHEReader_8h.html" title="Class for reading LHE event data. " alt="" coords="197,96,389,123"/>
+<area shape="rect" id="node4" href="$LHEEvent_8h.html" title="Class defining an LHE event with a list of particles and information from the header block..." alt="" coords="127,171,311,197"/>
+<area shape="rect" id="node5" href="$LHEParticle_8h.html" title="Class defining a single particle record in an LHE event. " alt="" coords="55,245,249,272"/>
+</map>

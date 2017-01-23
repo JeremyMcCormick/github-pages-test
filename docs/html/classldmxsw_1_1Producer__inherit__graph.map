@@ -1,0 +1,8 @@
+<map id="ldmxsw::Producer" name="ldmxsw::Producer">
+<area shape="rect" id="node3" href="$classDummyProducer.html" title="Defines a dummy Producer implementation that adds some random data to the event. " alt="" coords="5,155,125,181"/>
+<area shape="rect" id="node4" href="$classEcalDigiProducer.html" title="Performs basic ECal digitization. " alt="" coords="149,155,272,181"/>
+<area shape="rect" id="node5" href="$classEcalVetoProcessor.html" title="Determines if event is vetoable using ECAL hit information. " alt="" coords="297,155,431,181"/>
+<area shape="rect" id="node6" href="$classHcalDigiProducer.html" title="Performs digitization of simulated HCal data. " alt="" coords="455,155,579,181"/>
+<area shape="rect" id="node7" href="$classTriggerProcessor.html" title="Provides a trigger decision for recon using a TriggerResult object. " alt="" coords="603,155,724,181"/>
+<area shape="rect" id="node2" href="$classldmxsw_1_1EventProcessor.html" title="Base class for all event processing components. " alt="" coords="280,5,448,32"/>
+</map>

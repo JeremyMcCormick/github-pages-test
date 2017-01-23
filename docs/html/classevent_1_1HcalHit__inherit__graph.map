@@ -1,0 +1,3 @@
+<map id="event::HcalHit" name="event::HcalHit">
+<area shape="rect" id="node2" href="$classevent_1_1CalorimeterHit.html" title="Represents a reconstructed hit in a calorimeter cell within the detector. " alt="" coords="5,80,152,107"/>
+</map>

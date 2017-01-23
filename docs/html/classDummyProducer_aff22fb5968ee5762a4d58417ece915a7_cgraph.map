@@ -1,0 +1,5 @@
+<map id="DummyProducer::configure" name="DummyProducer::configure">
+<area shape="rect" id="node2" href="$classldmxsw_1_1ParameterSet.html#a5736625407bb71d0ae813714f76aa683" title="ldmxsw::ParameterSet\l::getDouble" alt="" coords="235,5,389,46"/>
+<area shape="rect" id="node3" href="$classldmxsw_1_1ParameterSet.html#a01a1a59202b5d8c79f0e3b45a04b67b5" title="ldmxsw::ParameterSet\l::getInteger" alt="" coords="235,70,389,111"/>
+<area shape="rect" id="node4" href="$classldmxsw_1_1ParameterSet.html#ac82ae7b1a50b9526d4e07558ab246bb9" title="ldmxsw::ParameterSet\l::getVDouble" alt="" coords="235,135,389,177"/>
+</map>

@@ -1,0 +1,16 @@
+<map id="sim::TrackerSD::ProcessHits" name="sim::TrackerSD::ProcessHits">
+<area shape="rect" id="node2" href="$classdetdescr_1_1DetectorID.html#a9291775df29b0fdcc11e3b1210ea7b84" title="detdescr::DetectorID\l::pack" alt="" coords="248,70,392,111"/>
+<area shape="rect" id="node5" href="$classsim_1_1G4TrackerHit.html#a2cd2669d33950d05eb00aff19de9d98e" title="sim::G4TrackerHit::\lPrint" alt="" coords="251,135,389,177"/>
+<area shape="rect" id="node7" href="$classsim_1_1G4TrackerHit.html#a75f48d13f9d0f0c6454b7c1bc9716726" title="sim::G4TrackerHit::\lsetEdep" alt="" coords="251,201,389,242"/>
+<area shape="rect" id="node8" href="$classdetdescr_1_1DetectorID.html#a6944299c46e92e393057dd7724a6a425" title="detdescr::DetectorID\l::setFieldValue" alt="" coords="248,266,392,307"/>
+<area shape="rect" id="node9" href="$classsim_1_1G4TrackerHit.html#a58dba1fbd65f231b96141711efbdbf80" title="sim::G4TrackerHit::\lsetID" alt="" coords="251,331,389,373"/>
+<area shape="rect" id="node10" href="$classsim_1_1G4TrackerHit.html#a283be6102b4e15bb1f5d5671f1c178f0" title="sim::G4TrackerHit::\lsetLayerID" alt="" coords="251,397,389,438"/>
+<area shape="rect" id="node11" href="$classsim_1_1G4TrackerHit.html#a003c0b0754a0df36c46bb0656e1e54a5" title="sim::G4TrackerHit::\lsetMomentum" alt="" coords="251,462,389,503"/>
+<area shape="rect" id="node12" href="$classsim_1_1G4TrackerHit.html#adbb265076984cace5bc84c46037ee82a" title="sim::G4TrackerHit::\lsetPathLength" alt="" coords="251,527,389,569"/>
+<area shape="rect" id="node13" href="$classsim_1_1G4TrackerHit.html#a63bb9a6366af4d0f6249d517db6f1d0b" title="sim::G4TrackerHit::\lsetPosition" alt="" coords="251,593,389,634"/>
+<area shape="rect" id="node14" href="$classsim_1_1G4TrackerHit.html#a6b9f250c0c8931e3f76591938af1de89" title="sim::G4TrackerHit::\lsetTime" alt="" coords="251,658,389,699"/>
+<area shape="rect" id="node15" href="$classsim_1_1G4TrackerHit.html#a390f8d497f391d08af3e874398cc80f6" title="sim::G4TrackerHit::\lsetTrackID" alt="" coords="251,723,389,765"/>
+<area shape="rect" id="node3" href="$classdetdescr_1_1IDField.html#a4fb9097fd43333cf04c31cafd127a88b" title="detdescr::IDField::\lgetIndex" alt="" coords="444,5,575,46"/>
+<area shape="rect" id="node4" href="$classdetdescr_1_1IDField.html#a8240b17f3444b5c6c309611fbbd12fbd" title="detdescr::IDField::\lgetStartBit" alt="" coords="444,70,575,111"/>
+<area shape="rect" id="node6" href="$classsim_1_1G4TrackerHit.html#a996c1df838599faf7a6a7fef1b9ed1f8" title="sim::G4TrackerHit::\lprint" alt="" coords="441,135,578,177"/>
+</map>

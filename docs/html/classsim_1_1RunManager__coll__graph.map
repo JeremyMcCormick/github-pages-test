@@ -1,0 +1,5 @@
+<map id="sim::RunManager" name="sim::RunManager">
+<area shape="rect" id="node3" href="$classsim_1_1PluginMessenger.html" title="Messenger class for loading and destroying user sim plugins using macro commands. ..." alt="" coords="142,187,292,213"/>
+<area shape="rect" id="node5" href="$classsim_1_1PluginManager.html" title="Manages user sim plugins. " alt="" coords="271,96,408,123"/>
+<area shape="rect" id="node6" href="$classsim_1_1PluginLoader.html" title="Loads user sim plugin classes from external shared libraries. " alt="" coords="277,5,403,32"/>
+</map>

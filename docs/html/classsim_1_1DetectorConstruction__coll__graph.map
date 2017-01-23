@@ -1,0 +1,4 @@
+<map id="sim::DetectorConstruction" name="sim::DetectorConstruction">
+<area shape="rect" id="node3" href="$classsim_1_1AuxInfoReader.html" title="Reads auxiliary information from GDML userinfo block. " alt="" coords="229,216,368,243"/>
+<area shape="rect" id="node4" href="$classdetdescr_1_1DetectorHeader.html" title="Defines detector header information. " alt="" coords="213,125,384,152"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="sim::EcalSD" name="sim::EcalSD">
+<area shape="rect" id="node2" href="$classsim_1_1CalorimeterSD.html" title="Basic calorimeter sensitive detector. " alt="" coords="98,96,235,123"/>
+<area shape="rect" id="node4" href="$classdetdescr_1_1DetectorID.html" title="Defines a 32&#45;bit packed ID for uniquely identifying hits and detector components. ..." alt="" coords="181,5,325,32"/>
+<area shape="rect" id="node5" href="$classdetdescr_1_1EcalHexReadout.html" title="Implementation of ECal hexagonal cell readout. " alt="" coords="260,96,439,123"/>
+</map>

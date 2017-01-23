@@ -1,0 +1,9 @@
+<map id="SimApplication/include/SimApplication/AuxInfoReader.h" name="SimApplication/include/SimApplication/AuxInfoReader.h">
+<area shape="rect" id="node2" href="$DetectorConstruction_8h.html" title="Class implementing the Geant4 detector construction. " alt="" coords="237,97,488,138"/>
+<area shape="rect" id="node8" href="$AuxInfoReader_8cxx_source.html" title="SimApplication/src\l/AuxInfoReader.cxx" alt="" coords="513,97,652,138"/>
+<area shape="rect" id="node3" href="$RunManager_8h.html" title="Class providing a Geant4 run manager implementation. " alt="" coords="192,187,395,229"/>
+<area shape="rect" id="node7" href="$DetectorConstruction_8cxx_source.html" title="SimApplication/src\l/DetectorConstruction.cxx" alt="" coords="470,187,644,229"/>
+<area shape="rect" id="node4" href="$RootPersistencyManager_8cxx_source.html" title="SimApplication/src\l/RootPersistencyManager.cxx" alt="" coords="5,278,203,319"/>
+<area shape="rect" id="node6" href="$SimApplication_8cxx_source.html" title="SimApplication/src\l/SimApplication.cxx" alt="" coords="383,278,521,319"/>
+<area shape="rect" id="node5" href="$RunManager_8cxx_source.html" title="SimApplication/src\l/RunManager.cxx" alt="" coords="228,278,359,319"/>
+</map>

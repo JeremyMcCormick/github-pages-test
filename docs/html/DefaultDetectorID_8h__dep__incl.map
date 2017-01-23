@@ -1,0 +1,23 @@
+<map id="DetDescr/include/DetDescr/DefaultDetectorID.h" name="DetDescr/include/DetDescr/DefaultDetectorID.h">
+<area shape="rect" id="node2" href="$EcalDetectorID_8h.html" title="Class that defines an ECal detector ID with a cell number. " alt="" coords="613,97,795,138"/>
+<area shape="rect" id="node20" href="$DefaultDetectorID_8cxx_source.html" title="DetDescr/src/DefaultDetector\lID.cxx" alt="" coords="819,97,1015,138"/>
+<area shape="rect" id="node21" href="$DefaultDetectorID__test_8cxx_source.html" title="DetDescr/test/DefaultDetector\lID_test.cxx" alt="" coords="1040,97,1240,138"/>
+<area shape="rect" id="node22" href="$HcalDigiProducer_8cxx_source.html" title="EventProc/src/HcalDigiProducer.cxx" alt="" coords="1265,104,1500,131"/>
+<area shape="rect" id="node18" href="$AuxInfoReader_8cxx_source.html" title="SimApplication/src\l/AuxInfoReader.cxx" alt="" coords="1136,285,1275,326"/>
+<area shape="rect" id="node3" href="$EcalDetectorID_8cxx_source.html" title="DetDescr/src/EcalDetector\lID.cxx" alt="" coords="1139,187,1319,229"/>
+<area shape="rect" id="node4" href="$EcalDigiProducer_8h.html" title="Class that performs basic ECal digitization. " alt="" coords="50,187,243,229"/>
+<area shape="rect" id="node6" href="$EcalVetoProcessor_8h.html" title="Class that determines if event is vetoable using ECAL hit information. " alt="" coords="342,187,535,229"/>
+<area shape="rect" id="node8" href="$EcalHitIO_8h.html" title="Class providing hit readout for simulated LDMX ECal detector. " alt="" coords="611,187,796,229"/>
+<area shape="rect" id="node17" href="$EcalSD_8h.html" title="Class defining an ECal sensitive detector using an EcalHexReadout to create the hits. " alt="" coords="891,187,1064,229"/>
+<area shape="rect" id="node5" href="$EcalDigiProducer_8cxx_source.html" title="EventProc/src/EcalDigiProducer.cxx" alt="" coords="5,292,240,319"/>
+<area shape="rect" id="node7" href="$EcalVetoProcessor_8cxx_source.html" title="EventProc/src/EcalVetoProcessor.cxx" alt="" coords="265,292,511,319"/>
+<area shape="rect" id="node9" href="$RootPersistencyManager_8h.html" title="Class providing persistency manager implementation with SimEvent output. " alt="" coords="742,277,956,333"/>
+<area shape="rect" id="node16" href="$EcalHitIO_8cxx_source.html" title="SimApplication/src\l/EcalHitIO.cxx" alt="" coords="536,285,667,326"/>
+<area shape="rect" id="node13" href="$RootPersistencyManager_8cxx_source.html" title="SimApplication/src\l/RootPersistencyManager.cxx" alt="" coords="551,389,749,430"/>
+<area shape="rect" id="node10" href="$RootPersistencyMessenger_8h.html" title="Class providing macro commands for ROOT persistency. " alt="" coords="1113,381,1327,437"/>
+<area shape="rect" id="node14" href="$UserEventAction_8cxx_source.html" title="SimApplication/src\l/UserEventAction.cxx" alt="" coords="774,389,924,430"/>
+<area shape="rect" id="node15" href="$UserRunAction_8cxx_source.html" title="SimApplication/src\l/UserRunAction.cxx" alt="" coords="949,389,1088,430"/>
+<area shape="rect" id="node11" href="$RootPersistencyMessenger_8cxx_source.html" title="SimApplication/src\l/RootPersistencyMessenger.cxx" alt="" coords="1017,486,1228,527"/>
+<area shape="rect" id="node12" href="$RunManager_8cxx_source.html" title="SimApplication/src\l/RunManager.cxx" alt="" coords="1253,486,1384,527"/>
+<area shape="rect" id="node19" href="$EcalSD_8cxx_source.html" title="SimApplication/src\l/EcalSD.cxx" alt="" coords="981,285,1112,326"/>
+</map>

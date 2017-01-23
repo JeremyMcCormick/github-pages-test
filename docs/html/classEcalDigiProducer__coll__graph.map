@@ -1,0 +1,9 @@
+<map id="EcalDigiProducer" name="EcalDigiProducer">
+<area shape="rect" id="node2" href="$classldmxsw_1_1Producer.html" title="Base class for a module which produces a data product. " alt="" coords="39,264,165,291"/>
+<area shape="rect" id="node3" href="$classldmxsw_1_1EventProcessor.html" title="Base class for all event processing components. " alt="" coords="10,187,178,213"/>
+<area shape="rect" id="node5" href="$classldmxsw_1_1Process.html" title="Class which represents the process under execution. " alt="" coords="66,96,189,123"/>
+<area shape="rect" id="node6" href="$classdetdescr_1_1EcalDetectorID.html" title="Extension of DefaultDetectorID providing access to ECal cell number in a hex grid. " alt="" coords="203,264,374,291"/>
+<area shape="rect" id="node7" href="$classdetdescr_1_1DefaultDetectorID.html" title="Defines a default detector ID with encoded layer and subdetector values. " alt="" coords="202,187,389,213"/>
+<area shape="rect" id="node8" href="$classdetdescr_1_1DetectorID.html" title="Defines a 32&#45;bit packed ID for uniquely identifying hits and detector components. ..." alt="" coords="223,96,367,123"/>
+<area shape="rect" id="node9" href="$classdetdescr_1_1EcalHexReadout.html" title="Implementation of ECal hexagonal cell readout. " alt="" coords="398,264,577,291"/>
+</map>

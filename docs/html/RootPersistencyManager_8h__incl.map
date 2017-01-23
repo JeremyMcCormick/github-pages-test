@@ -1,0 +1,22 @@
+<map id="SimApplication/include/SimApplication/RootPersistencyManager.h" name="SimApplication/include/SimApplication/RootPersistencyManager.h">
+<area shape="rect" id="node5" href="$Event_8h.html" title="Class defining an abstract interface for accessing event information and data collections. " alt="" coords="702,357,807,384"/>
+<area shape="rect" id="node13" href="$EventFile_8h.html" title="Class for managing a file of events. " alt="" coords="201,184,359,211"/>
+<area shape="rect" id="node8" href="$EventHeader_8h.html" title="Class that provides header information about an event such as event number and timestamp. " alt="" coords="941,440,1088,467"/>
+<area shape="rect" id="node19" href="$RunHeader_8h.html" title="Class defining a run header providing information about a set of events. " alt="" coords="387,440,524,467"/>
+<area shape="rect" id="node20" href="$EcalHitIO_8h.html" title="Class providing hit readout for simulated LDMX ECal detector. " alt="" coords="1813,109,1995,136"/>
+<area shape="rect" id="node45" href="$G4TrackerHit_8h.html" title="Class defining a tracker hit which is used to create output SimTrackerHit collection. " alt="" coords="2731,259,2905,301"/>
+<area shape="rect" id="node36" href="$SimParticleBuilder_8h.html" title="Class for building output SimParticle collection from trajectories. " alt="" coords="1222,259,1401,301"/>
+<area shape="rect" id="node14" href="$EventImpl_8h.html" title="Class implementing an event buffer system for storing event data. " alt="" coords="282,267,443,293"/>
+<area shape="rect" id="node21" href="$EcalDetectorID_8h.html" title="Class that defines an ECal detector ID with a cell number. " alt="" coords="1741,184,1923,211"/>
+<area shape="rect" id="node25" href="$EcalHexReadout_8h.html" title="Class that translates raw positions of ECal hits into cells in a hexagonal readout. " alt="" coords="1733,440,1925,467"/>
+<area shape="rect" id="node27" href="$SimCalorimeterHit_8h.html" title="Class which stores simulated calorimeter hit information. " alt="" coords="2076,357,2255,384"/>
+<area shape="rect" id="node31" href="$G4CalorimeterHit_8h.html" title="Class defining a calorimeter hit which is used to create output SimCalorimeterHit objects..." alt="" coords="2461,259,2659,301"/>
+<area shape="rect" id="node22" href="$DefaultDetectorID_8h.html" title="Class that defines a default detector ID. " alt="" coords="1802,267,2000,293"/>
+<area shape="rect" id="node23" href="$DetectorID_8h.html" title="Class that defines a 32&#45;bit packed ID for uniquely identifying hits and detector components. " alt="" coords="1823,357,1980,384"/>
+<area shape="rect" id="node24" href="$IDField_8h.html" title="Class that defines a single field in a bit&#45;packed detector ID. " alt="" coords="1473,440,1607,467"/>
+<area shape="rect" id="node29" href="$SimParticle_8h.html" title="Class which implements an MC particle that stores information about tracks from the simulation..." alt="" coords="2397,440,2536,467"/>
+<area shape="rect" id="node37" href="$TrackMap_8h.html" title="Class which defines a map of track ID to parent ID. " alt="" coords="1350,357,1532,384"/>
+<area shape="rect" id="node40" href="$Trajectory_8h.html" title="Class providing Trajectory implementation for storing track info. " alt="" coords="1950,440,2132,467"/>
+<area shape="rect" id="node42" href="$TrajectoryContainer_8h.html" title="Class which implements a Trajectory container. " alt="" coords="1104,350,1275,391"/>
+<area shape="rect" id="node46" href="$SimTrackerHit_8h.html" title="Class which encapsulates information from a hit in a simulated tracking detector. ..." alt="" coords="2279,357,2433,384"/>
+</map>
